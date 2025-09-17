@@ -1,0 +1,9 @@
+omo usar esse ambiente daqui pra frente?
+Sempre que você quiser trabalhar no projeto:
+
+cd ~/Documents/ADA/TrabSet
+source .venv/bin/activate
+
+Para sair do ambiente:
+deactivate
+
